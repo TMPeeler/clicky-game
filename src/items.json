@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "Iron Boots",
+    "image": "./images/iron-boots.png"
+  },
+  {
+    "id": 2,
+    "name": "Hover Boots",
+    "image": "./images/hover-boots.png"
+  },
+  {
+    "id": 3,
+    "name": "Heart Container",
+    "image": "./images/heart-container.png"
+  },
+  {
+    "id": 4,
+    "name": "Goron Mask",
+    "image": "./images/Goron.png"
+  },
+  {
+    "id": 5,
+    "name": "Zora Mask",
+    "image": "./images/Zora.png"
+  },
+  {
+    "id": 6,
+    "name": "Mirror Shield",
+    "image": "./images/mirror-shield.png"
+  },
+  {
+    "id": 7,
+    "name": "Light Arrows",
+    "image": "./images/light-arrows.png"
+  },
+  {
+    "id": 8,
+    "name": "Hylian Shield",
+    "image": "./images/hylian-shield.png"
+  },
+  {
+    "id": 9,
+    "name": "Bomb",
+    "image": "./images/bomb.png"
+  },
+  {
+    "id": 10,
+    "name": "Deku Shield",
+    "image": "./images/deku-shield.png"
+  },
+  {
+    "id": 11,
+    "name": "Kokiri Sword",
+    "image": "./images/kokiri-sword.png"
+  },
+  {
+    "id": 12,
+    "name": "Master Sword",
+    "image": "./images/master-sword.png"
+  }
+]
