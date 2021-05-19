@@ -31,3 +31,7 @@ I began to solve by creating a base index file that imports content and renders 
 
 ## Github Repository
 - [https://github.com/TMPeeler/clicky-game]
+
+## Deployed Link
+
+- [https://tmpeeler.github.io/clicky-game/]
